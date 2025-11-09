@@ -1,0 +1,1204 @@
+{
+  "dad_jokes": [
+    {
+      "id": 1,
+      "category": "animals",
+      "setup": "What do you call a fish wearing a bowtie?",
+      "punchline": "Sofishticated."
+    },
+    {
+      "id": 2,
+      "category": "animals",
+      "setup": "Why do cows have hooves instead of feet?",
+      "punchline": "Because they lactose."
+    },
+    {
+      "id": 3,
+      "category": "animals",
+      "setup": "What do you call an alligator in a vest?",
+      "punchline": "An investigator."
+    },
+    {
+      "id": 4,
+      "category": "animals",
+      "setup": "What do you get when you cross a snowman and a dog?",
+      "punchline": "Frostbite."
+    },
+    {
+      "id": 5,
+      "category": "animals",
+      "setup": "Why did the scarecrow win an award?",
+      "punchline": "Because he was outstanding in his field."
+    },
+    {
+      "id": 6,
+      "category": "animals",
+      "setup": "Why don’t seagulls fly over the bay?",
+      "punchline": "Because then they’d be bagels!"
+    },
+    {
+      "id": 7,
+      "category": "animals",
+      "setup": "What do you call a bear with no teeth?",
+      "punchline": "A gummy bear."
+    },
+    {
+      "id": 8,
+      "category": "animals",
+      "setup": "What do you call a sleeping bull?",
+      "punchline": "A bulldozer."
+    },
+    {
+      "id": 9,
+      "category": "animals",
+      "setup": "What sound does a sleeping T-Rex make?",
+      "punchline": "A dino-snore!"
+    },
+    {
+      "id": 10,
+      "category": "animals",
+      "setup": "Why can’t a leopard hide?",
+      "punchline": "Because he’s always spotted."
+    },
+    {
+      "id": 11,
+      "category": "food",
+      "setup": "What do you call cheese that isn’t yours?",
+      "punchline": "Nacho cheese."
+    },
+    {
+      "id": 12,
+      "category": "food",
+      "setup": "What kind of shoes does a banana wear?",
+      "punchline": "Slippers."
+    },
+    {
+      "id": 13,
+      "category": "food",
+      "setup": "Why did the tomato blush?",
+      "punchline": "Because it saw the salad dressing."
+    },
+    {
+      "id": 14,
+      "category": "food",
+      "setup": "What do you call a fake noodle?",
+      "punchline": "An impasta."
+    },
+    {
+      "id": 15,
+      "category": "food",
+      "setup": "Why don’t eggs tell jokes?",
+      "punchline": "They’d crack each other up."
+    },
+    {
+      "id": 16,
+      "category": "food",
+      "setup": "What kind of room doesn’t have doors?",
+      "punchline": "A mushroom."
+    },
+    {
+      "id": 17,
+      "category": "food",
+      "setup": "Why did the coffee file a police report?",
+      "punchline": "It got mugged."
+    },
+    {
+      "id": 18,
+      "category": "food",
+      "setup": "Why did the orange stop rolling down the hill?",
+      "punchline": "It ran out of juice."
+    },
+    {
+      "id": 19,
+      "category": "food",
+      "setup": "What do you call two birds in love?",
+      "punchline": "Tweethearts."
+    },
+    {
+      "id": 20,
+      "category": "food",
+      "setup": "Why did the cookie go to the hospital?",
+      "punchline": "Because it felt crummy."
+    },
+    {
+      "id": 21,
+      "category": "science",
+      "setup": "Why can’t you trust an atom?",
+      "punchline": "Because they make up everything!"
+    },
+    {
+      "id": 22,
+      "category": "science",
+      "setup": "Why did the physicist break up with the biologist?",
+      "punchline": "There was no chemistry."
+    },
+    {
+      "id": 23,
+      "category": "science",
+      "setup": "How does a scientist freshen her breath?",
+      "punchline": "With experi-mints."
+    },
+    {
+      "id": 24,
+      "category": "science",
+      "setup": "Why did the math book look sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": 25,
+      "category": "science",
+      "setup": "Why can’t you trust stairs?",
+      "punchline": "They’re always up to something."
+    },
+    {
+      "id": 26,
+      "category": "science",
+      "setup": "What did the biologist wear to impress his date?",
+      "punchline": "Designer genes."
+    },
+    {
+      "id": 27,
+      "category": "science",
+      "setup": "What’s a computer’s favorite snack?",
+      "punchline": "Computer chips."
+    },
+    {
+      "id": 28,
+      "category": "science",
+      "setup": "Why did the PowerPoint Presentation cross the road?",
+      "punchline": "To get to the other slide."
+    },
+    {
+      "id": 29,
+      "category": "science",
+      "setup": "Why are ghosts bad liars?",
+      "punchline": "Because they are too transparent."
+    },
+    {
+      "id": 30,
+      "category": "science",
+      "setup": "How do trees get online?",
+      "punchline": "They log in."
+    },
+    {
+      "id": 31,
+      "category": "puns",
+      "setup": "I only know 25 letters of the alphabet.",
+      "punchline": "I don’t know y."
+    },
+    {
+      "id": 32,
+      "category": "puns",
+      "setup": "I used to play piano by ear...",
+      "punchline": "But now I use my hands."
+    },
+    {
+      "id": 33,
+      "category": "puns",
+      "setup": "Did you hear about the guy who invented Lifesavers?",
+      "punchline": "He made a mint!"
+    },
+    {
+      "id": 34,
+      "category": "puns",
+      "setup": "How does a penguin build its house?",
+      "punchline": "Igloos it together."
+    },
+    {
+      "id": 35,
+      "category": "puns",
+      "setup": "What did one wall say to the other?",
+      "punchline": "I’ll meet you at the corner."
+    },
+    {
+      "id": 36,
+      "category": "puns",
+      "setup": "Why don’t skeletons fight each other?",
+      "punchline": "They don’t have the guts."
+    },
+    {
+      "id": 37,
+      "category": "puns",
+      "setup": "I used to be addicted to soap...",
+      "punchline": "But I’m clean now."
+    },
+    {
+      "id": 38,
+      "category": "puns",
+      "setup": "Why did the golfer bring two pairs of pants?",
+      "punchline": "In case he got a hole in one."
+    },
+    {
+      "id": 39,
+      "category": "puns",
+      "setup": "Why can’t your nose be 12 inches long?",
+      "punchline": "Because then it’d be a foot."
+    },
+    {
+      "id": 40,
+      "category": "puns",
+      "setup": "What do you call a factory that makes okay products?",
+      "punchline": "A satisfactory."
+    },
+    {
+      "id": 41,
+      "category": "family",
+      "setup": "Why did the dad bring a ladder to the bar?",
+      "punchline": "Because he heard the drinks were on the house."
+    },
+    {
+      "id": 42,
+      "category": "family",
+      "setup": "What did the father buffalo say to his son?",
+      "punchline": "Bison!"
+    },
+    {
+      "id": 43,
+      "category": "family",
+      "setup": "I told my wife she should embrace her mistakes.",
+      "punchline": "She gave me a hug."
+    },
+    {
+      "id": 44,
+      "category": "family",
+      "setup": "Why do fathers take an extra pair of socks when they go golfing?",
+      "punchline": "In case they get a hole in one."
+    },
+    {
+      "id": 45,
+      "category": "family",
+      "setup": "My dad told me a joke about boxing...",
+      "punchline": "I guess I missed the punch line."
+    },
+    {
+      "id": 46,
+      "category": "family",
+      "setup": "Why did the dad sit on the remote?",
+      "punchline": "Because he wanted to be in control."
+    },
+    {
+      "id": 47,
+      "category": "family",
+      "setup": "What did the janitor say when he jumped out of the closet?",
+      "punchline": "Supplies!"
+    },
+    {
+      "id": 48,
+      "category": "family",
+      "setup": "What do you call your dad when he falls through the ice?",
+      "punchline": "A Popsicle."
+    },
+    {
+      "id": 49,
+      "category": "family",
+      "setup": "Why don’t skeletons ever go trick or treating?",
+      "punchline": "Because they have no body to go with."
+    },
+    {
+      "id": 50,
+      "category": "family",
+      "setup": "How do you organize a space party?",
+      "punchline": "You planet."
+    },
+    {
+      "id": 51,
+      "category": "random",
+      "setup": "What do you call fake spaghetti?",
+      "punchline": "An impasta."
+    },
+    {
+      "id": 52,
+      "category": "random",
+      "setup": "Why don’t oysters share their pearls?",
+      "punchline": "Because they’re shellfish."
+    },
+    {
+      "id": 53,
+      "category": "random",
+      "setup": "What did one plate say to another?",
+      "punchline": "Lunch is on me."
+    },
+    {
+      "id": 54,
+      "category": "random",
+      "setup": "Why can’t you give Elsa a balloon?",
+      "punchline": "Because she’ll let it go."
+    },
+    {
+      "id": 55,
+      "category": "random",
+      "setup": "What do you call a belt made of watches?",
+      "punchline": "A waist of time."
+    },
+    {
+      "id": 56,
+      "category": "random",
+      "setup": "What do you call a snowman with a six-pack?",
+      "punchline": "An abdominal snowman."
+    },
+    {
+      "id": 57,
+      "category": "random",
+      "setup": "Why do bees have sticky hair?",
+      "punchline": "Because they use honeycombs."
+    },
+    {
+      "id": 58,
+      "category": "random",
+      "setup": "What do you call a group of musical whales?",
+      "punchline": "An orca-stra."
+    },
+    {
+      "id": 59,
+      "category": "random",
+      "setup": "Why did the man fall into the well?",
+      "punchline": "Because he didn’t see that well."
+    },
+    {
+      "id": 60,
+      "category": "random",
+      "setup": "Why did the bicycle fall over?",
+      "punchline": "It was two-tired."
+    },
+    {
+      "id": 61,
+      "category": "random",
+      "setup": "What did zero say to eight?",
+      "punchline": "Nice belt!"
+    },
+    {
+      "id": 62,
+      "category": "random",
+      "setup": "Why did the golfer bring an extra shirt?",
+      "punchline": "In case he got a hole in one."
+    },
+    {
+      "id": 63,
+      "category": "random",
+      "setup": "How do you make holy water?",
+      "punchline": "You boil the hell out of it."
+    },
+    {
+      "id": 64,
+      "category": "random",
+      "setup": "I used to hate facial hair...",
+      "punchline": "But then it grew on me."
+    },
+    {
+      "id": 65,
+      "category": "random",
+      "setup": "What lights up a soccer stadium?",
+      "punchline": "A soccer match."
+    },
+    {
+      "id": 66,
+      "category": "random",
+      "setup": "Why don’t crabs give to charity?",
+      "punchline": "Because they’re shellfish."
+    },
+    {
+      "id": 67,
+      "category": "random",
+      "setup": "How do cows stay up to date?",
+      "punchline": "They read the moos-paper."
+    },
+    {
+      "id": 68,
+      "category": "random",
+      "setup": "What’s brown and sticky?",
+      "punchline": "A stick."
+    },
+    {
+      "id": 69,
+      "category": "random",
+      "setup": "Why was the broom late?",
+      "punchline": "It swept in."
+    },
+    {
+      "id": 70,
+      "category": "random",
+      "setup": "Why did the math teacher love plants?",
+      "punchline": "They have square roots."
+    },
+    {
+      "id": 71,
+      "category": "random",
+      "setup": "Why did the computer go to the doctor?",
+      "punchline": "It had a virus."
+    },
+    {
+      "id": 72,
+      "category": "random",
+      "setup": "Why do ducks have feathers?",
+      "punchline": "To cover their butt quacks."
+    },
+    {
+      "id": 73,
+      "category": "random",
+      "setup": "What do you call a can opener that doesn’t work?",
+      "punchline": "A can’t opener."
+    },
+    {
+      "id": 74,
+      "category": "random",
+      "setup": "Why was the math lecture so long?",
+      "punchline": "The professor kept going off on a tangent."
+    },
+    {
+      "id": 75,
+      "category": "random",
+      "setup": "How do you organize an outer space party?",
+      "punchline": "You planet."
+    },
+    {
+      "id": 76,
+      "category": "random",
+      "setup": "Why did the scarecrow get promoted?",
+      "punchline": "He was outstanding in his field."
+    },
+    {
+      "id": 77,
+      "category": "random",
+      "setup": "Why did the bicycle fall over?",
+      "punchline": "It was two-tired."
+    },
+    {
+      "id": 78,
+      "category": "random",
+      "setup": "Why did the stadium get hot?",
+      "punchline": "All the fans left."
+    },
+    {
+      "id": 79,
+      "category": "random",
+      "setup": "What did the ocean say to the beach?",
+      "punchline": "Nothing, it just waved."
+    },
+    {
+      "id": 80,
+      "category": "random",
+      "setup": "How do you find Will Smith in the snow?",
+      "punchline": "You look for fresh prints."
+    },
+    {
+      "id": 81,
+      "category": "random",
+      "setup": "Why don’t melons get married?",
+      "punchline": "Because they cantaloupe."
+    },
+    {
+      "id": 82,
+      "category": "random",
+      "setup": "Why did the golfer wear two pairs of pants?",
+      "punchline": "In case he got a hole in one."
+    },
+    {
+      "id": 83,
+      "category": "random",
+      "setup": "Why don’t skeletons fight?",
+      "punchline": "They don’t have the guts."
+    },
+    {
+      "id": 84,
+      "category": "random",
+      "setup": "Why did the man put his money in the blender?",
+      "punchline": "He wanted to make some liquid assets."
+    },
+    {
+      "id": 85,
+      "category": "random",
+      "setup": "Why did the music teacher go to jail?",
+      "punchline": "Because she got caught with the wrong notes."
+    },
+    {
+      "id": 86,
+      "category": "random",
+      "setup": "What’s orange and sounds like a parrot?",
+      "punchline": "A carrot."
+    },
+    {
+      "id": 87,
+      "category": "random",
+      "setup": "How do you make a tissue dance?",
+      "punchline": "You put a little boogie in it."
+    },
+    {
+      "id": 88,
+      "category": "random",
+      "setup": "What did one hat say to the other?",
+      "punchline": "You stay here, I’ll go on ahead."
+    },
+    {
+      "id": 89,
+      "category": "random",
+      "setup": "Why did the barber win the race?",
+      "punchline": "He knew all the shortcuts."
+    },
+    {
+      "id": 90,
+      "category": "random",
+      "setup": "Why do vampires always seem sick?",
+      "punchline": "They’re always coffin."
+    },
+    {
+      "id": 91,
+      "category": "random",
+      "setup": "How do you fix a broken pumpkin?",
+      "punchline": "With a pumpkin patch."
+    },
+    {
+      "id": 92,
+      "category": "random",
+      "setup": "Why did the golfer bring an umbrella?",
+      "punchline": "In case of a hole in one."
+    },
+    {
+      "id": 93,
+      "category": "random",
+      "setup": "What’s Forrest Gump’s password?",
+      "punchline": "1forest1."
+    },
+    {
+      "id": 94,
+      "category": "random",
+      "setup": "Why did the picture go to jail?",
+      "punchline": "It was framed."
+    },
+    {
+      "id": 95,
+      "category": "random",
+      "setup": "Why was the calendar afraid?",
+      "punchline": "Its days were numbered."
+    },
+    {
+      "id": 96,
+      "category": "random",
+      "setup": "Why did the musician break up with his metronome?",
+      "punchline": "It couldn’t keep up with the tempo."
+    },
+    {
+      "id": 97,
+      "category": "random",
+      "setup": "What’s a skeleton’s least favorite room?",
+      "punchline": "The living room."
+    },
+    {
+      "id": 98,
+      "category": "random",
+      "setup": "Why did the chicken join a band?",
+      "punchline": "Because it had the drumsticks."
+    },
+    {
+      "id": 99,
+      "category": "random",
+      "setup": "Why can’t your hand be 12 inches long?",
+      "punchline": "Because then it’d be a foot."
+    },
+    {
+      "id": 100,
+      "category": "random",
+      "setup": "What did the big flower say to the little flower?",
+      "punchline": "Hey, bud!"
+    },
+    {
+      "id": 101,
+      "category": "animals",
+      "setup": "Why did the cat sit on the computer?",
+      "punchline": "To keep an eye on the mouse."
+    },
+    {
+      "id": 102,
+      "category": "animals",
+      "setup": "What do you call an elephant that doesn’t matter?",
+      "punchline": "An irrelephant."
+    },
+    {
+      "id": 103,
+      "category": "animals",
+      "setup": "Why did the horse go behind the tree?",
+      "punchline": "To change his jockeys."
+    },
+    {
+      "id": 104,
+      "category": "animals",
+      "setup": "What do you call a pig that does karate?",
+      "punchline": "A pork chop."
+    },
+    {
+      "id": 105,
+      "category": "animals",
+      "setup": "Why don’t elephants use computers?",
+      "punchline": "They’re afraid of the mouse."
+    },
+    {
+      "id": 106,
+      "category": "animals",
+      "setup": "How do you count cows?",
+      "punchline": "With a cowculator."
+    },
+    {
+      "id": 107,
+      "category": "animals",
+      "setup": "Why did the chicken go to the séance?",
+      "punchline": "To talk to the other side."
+    },
+    {
+      "id": 108,
+      "category": "animals",
+      "setup": "What do you call a lazy kangaroo?",
+      "punchline": "A pouch potato."
+    },
+    {
+      "id": 109,
+      "category": "animals",
+      "setup": "What do you call a dog magician?",
+      "punchline": "A labracadabrador."
+    },
+    {
+      "id": 110,
+      "category": "animals",
+      "setup": "What’s black and white and goes round and round?",
+      "punchline": "A penguin in a revolving door."
+    },
+    {
+      "id": 111,
+      "category": "food",
+      "setup": "What does a lemon say when it answers the phone?",
+      "punchline": "Yellow!"
+    },
+    {
+      "id": 112,
+      "category": "food",
+      "setup": "Why did the grape stop in the middle of the road?",
+      "punchline": "It ran out of juice."
+    },
+    {
+      "id": 113,
+      "category": "food",
+      "setup": "What’s a potato’s least favorite day?",
+      "punchline": "Fry-day."
+    },
+    {
+      "id": 114,
+      "category": "food",
+      "setup": "Why did the lettuce win the race?",
+      "punchline": "Because it was ahead."
+    },
+    {
+      "id": 115,
+      "category": "food",
+      "setup": "What do you call a sad strawberry?",
+      "punchline": "A blueberry."
+    },
+    {
+      "id": 116,
+      "category": "food",
+      "setup": "Why did the banana go to the doctor?",
+      "punchline": "Because it wasn’t peeling well."
+    },
+    {
+      "id": 117,
+      "category": "food",
+      "setup": "What’s a ghost’s favorite fruit?",
+      "punchline": "Boo-berries."
+    },
+    {
+      "id": 118,
+      "category": "food",
+      "setup": "What kind of nut always seems to have a cold?",
+      "punchline": "Cashew!"
+    },
+    {
+      "id": 119,
+      "category": "food",
+      "setup": "What kind of bagel can fly?",
+      "punchline": "A plain bagel."
+    },
+    {
+      "id": 120,
+      "category": "food",
+      "setup": "Why did the peanut get in trouble?",
+      "punchline": "Because it was a little nuts."
+    },
+    {
+      "id": 121,
+      "category": "science",
+      "setup": "Why can’t you trust atoms?",
+      "punchline": "They make up everything."
+    },
+    {
+      "id": 122,
+      "category": "science",
+      "setup": "What’s the fastest liquid on Earth?",
+      "punchline": "Milk — it’s pasteurized before you see it."
+    },
+    {
+      "id": 123,
+      "category": "science",
+      "setup": "What did one ion say to the other?",
+      "punchline": "I’ve got my ion you."
+    },
+    {
+      "id": 124,
+      "category": "science",
+      "setup": "What does a cloud wear under his raincoat?",
+      "punchline": "Thunderwear."
+    },
+    {
+      "id": 125,
+      "category": "science",
+      "setup": "What’s a physicist’s favorite food?",
+      "punchline": "Fission chips."
+    },
+    {
+      "id": 126,
+      "category": "science",
+      "setup": "Why did the chemist go to jail?",
+      "punchline": "He got caught with concentrated acid."
+    },
+    {
+      "id": 127,
+      "category": "science",
+      "setup": "Why did the sun go to school?",
+      "punchline": "To get a little brighter."
+    },
+    {
+      "id": 128,
+      "category": "science",
+      "setup": "What did the biologist name his dog?",
+      "punchline": "Mitochondria — it’s the powerhouse of the bark."
+    },
+    {
+      "id": 129,
+      "category": "science",
+      "setup": "How does the moon cut his hair?",
+      "punchline": "Eclipse it."
+    },
+    {
+      "id": 130,
+      "category": "science",
+      "setup": "Why do chemists like nitrates so much?",
+      "punchline": "They’re cheaper than day rates."
+    },
+    {
+      "id": 131,
+      "category": "sports",
+      "setup": "Why did Cinderella get kicked off the soccer team?",
+      "punchline": "Because she kept running from the ball."
+    },
+    {
+      "id": 132,
+      "category": "sports",
+      "setup": "Why can’t basketball players go on vacation?",
+      "punchline": "They’d get called for traveling."
+    },
+    {
+      "id": 133,
+      "category": "sports",
+      "setup": "Why was the baseball stadium so cool?",
+      "punchline": "It was full of fans."
+    },
+    {
+      "id": 134,
+      "category": "sports",
+      "setup": "Why was the soccer field wet?",
+      "punchline": "Because the players dribbled all over it."
+    },
+    {
+      "id": 135,
+      "category": "sports",
+      "setup": "Why did the golfer bring an extra pair of pants?",
+      "punchline": "In case he got a hole in one."
+    },
+    {
+      "id": 136,
+      "category": "sports",
+      "setup": "Why did the tennis player bring a ladder?",
+      "punchline": "To reach the high serves."
+    },
+    {
+      "id": 137,
+      "category": "sports",
+      "setup": "Why did the referee go to the bank?",
+      "punchline": "To get his quarters back."
+    },
+    {
+      "id": 138,
+      "category": "sports",
+      "setup": "What do you call a pig who plays basketball?",
+      "punchline": "A ball hog."
+    },
+    {
+      "id": 139,
+      "category": "sports",
+      "setup": "Why did the coach go to the bank?",
+      "punchline": "To get his quarterback."
+    },
+    {
+      "id": 140,
+      "category": "sports",
+      "setup": "Why don’t basketball players go on dates?",
+      "punchline": "They’d rather shoot their shot."
+    },
+    {
+      "id": 141,
+      "category": "technology",
+      "setup": "Why did the computer catch a cold?",
+      "punchline": "It left its Windows open."
+    },
+    {
+      "id": 142,
+      "category": "technology",
+      "setup": "Why was the computer cold?",
+      "punchline": "Because it forgot to close its Windows."
+    },
+    {
+      "id": 143,
+      "category": "technology",
+      "setup": "Why did the smartphone need glasses?",
+      "punchline": "It lost all its contacts."
+    },
+    {
+      "id": 144,
+      "category": "technology",
+      "setup": "Why was the computer tired when it got home?",
+      "punchline": "It had a hard drive."
+    },
+    {
+      "id": 145,
+      "category": "technology",
+      "setup": "What do you call a singing laptop?",
+      "punchline": "A Dell."
+    },
+    {
+      "id": 146,
+      "category": "technology",
+      "setup": "Why did the developer go broke?",
+      "punchline": "Because he used up all his cache."
+    },
+    {
+      "id": 147,
+      "category": "technology",
+      "setup": "Why did the PowerPoint presentation cross the road?",
+      "punchline": "To get to the next slide."
+    },
+    {
+      "id": 148,
+      "category": "technology",
+      "setup": "What do computers eat for snacks?",
+      "punchline": "Microchips."
+    },
+    {
+      "id": 149,
+      "category": "technology",
+      "setup": "Why can’t computers take their hats off?",
+      "punchline": "Because they have bad caps lock."
+    },
+    {
+      "id": 150,
+      "category": "technology",
+      "setup": "Why did the robot go on a diet?",
+      "punchline": "Too many bytes."
+    },
+    {
+      "id": 151,
+      "category": "work",
+      "setup": "Why did the employee get fired from the calendar factory?",
+      "punchline": "He took a day off."
+    },
+    {
+      "id": 152,
+      "category": "work",
+      "setup": "Why did the scarecrow get promoted?",
+      "punchline": "Because he was outstanding in his field."
+    },
+    {
+      "id": 153,
+      "category": "work",
+      "setup": "Why did the coffee file a police report?",
+      "punchline": "It got mugged at work."
+    },
+    {
+      "id": 154,
+      "category": "work",
+      "setup": "Why did the banker switch careers?",
+      "punchline": "He lost interest."
+    },
+    {
+      "id": 155,
+      "category": "work",
+      "setup": "What do you call a dentist’s X-rays?",
+      "punchline": "Tooth pics."
+    },
+    {
+      "id": 156,
+      "category": "work",
+      "setup": "Why don’t secret agents sleep?",
+      "punchline": "Because they’re always undercover."
+    },
+    {
+      "id": 157,
+      "category": "work",
+      "setup": "Why was the belt arrested?",
+      "punchline": "It held up a pair of pants."
+    },
+    {
+      "id": 158,
+      "category": "work",
+      "setup": "Why don’t bakers tell secrets?",
+      "punchline": "Because they knead to keep it."
+    },
+    {
+      "id": 159,
+      "category": "work",
+      "setup": "What did the janitor say when he jumped out of the closet?",
+      "punchline": "Supplies!"
+    },
+    {
+      "id": 160,
+      "category": "work",
+      "setup": "Why did the barber win an award?",
+      "punchline": "He made the cut."
+    },
+    {
+      "id": 161,
+      "category": "puns",
+      "setup": "I’m reading a book about anti-gravity.",
+      "punchline": "It’s impossible to put down."
+    },
+    {
+      "id": 162,
+      "category": "puns",
+      "setup": "I used to be a baker.",
+      "punchline": "But I couldn’t make enough dough."
+    },
+    {
+      "id": 163,
+      "category": "puns",
+      "setup": "I’m on a whiskey diet.",
+      "punchline": "I’ve lost three days already."
+    },
+    {
+      "id": 164,
+      "category": "puns",
+      "setup": "I once got into a fight with a broken elevator.",
+      "punchline": "I took it to another level."
+    },
+    {
+      "id": 165,
+      "category": "puns",
+      "setup": "I tried to catch fog yesterday.",
+      "punchline": "Mist."
+    },
+    {
+      "id": 166,
+      "category": "puns",
+      "setup": "I’d tell you a chemistry joke...",
+      "punchline": "But I know I wouldn’t get a reaction."
+    },
+    {
+      "id": 167,
+      "category": "puns",
+      "setup": "I used to be afraid of hurdles...",
+      "punchline": "But I got over it."
+    },
+    {
+      "id": 168,
+      "category": "puns",
+      "setup": "I’m friends with all electricians.",
+      "punchline": "We have good current connections."
+    },
+    {
+      "id": 169,
+      "category": "puns",
+      "setup": "I wanted to be a doctor...",
+      "punchline": "But I didn’t have the patients."
+    },
+    {
+      "id": 170,
+      "category": "puns",
+      "setup": "I told my computer I needed a break...",
+      "punchline": "Now it won’t stop sending me Kit-Kat ads."
+    },
+    {
+      "id": 171,
+      "category": "random",
+      "setup": "Why did the man run around his bed?",
+      "punchline": "He wanted to catch up on sleep."
+    },
+    {
+      "id": 172,
+      "category": "random",
+      "setup": "Why did the skeleton go to the party alone?",
+      "punchline": "He had no body to go with."
+    },
+    {
+      "id": 173,
+      "category": "random",
+      "setup": "Why don’t calendars ever get tired?",
+      "punchline": "They have plenty of dates."
+    },
+    {
+      "id": 174,
+      "category": "random",
+      "setup": "Why did the golfer bring soap?",
+      "punchline": "To clean up his act."
+    },
+    {
+      "id": 175,
+      "category": "random",
+      "setup": "What did the traffic light say to the car?",
+      "punchline": "Don’t look! I’m changing!"
+    },
+    {
+      "id": 176,
+      "category": "random",
+      "setup": "What do you call a sleeping dinosaur?",
+      "punchline": "A dino-snore."
+    },
+    {
+      "id": 177,
+      "category": "random",
+      "setup": "Why did the scarecrow keep getting promoted?",
+      "punchline": "Because he was outstanding in his field."
+    },
+    {
+      "id": 178,
+      "category": "random",
+      "setup": "What’s a skeleton’s least favorite room?",
+      "punchline": "The living room."
+    },
+    {
+      "id": 179,
+      "category": "random",
+      "setup": "Why did the man put his money in the freezer?",
+      "punchline": "He wanted cold hard cash."
+    },
+    {
+      "id": 180,
+      "category": "random",
+      "setup": "Why don’t ghosts like rain?",
+      "punchline": "It dampens their spirits."
+    },
+    {
+      "id": 181,
+      "category": "random",
+      "setup": "Why did the belt go to jail?",
+      "punchline": "For holding up a pair of pants."
+    },
+    {
+      "id": 182,
+      "category": "random",
+      "setup": "Why did the bicycle need a nap?",
+      "punchline": "Because it was two-tired."
+    },
+    {
+      "id": 183,
+      "category": "random",
+      "setup": "Why can’t your nose be 12 inches long?",
+      "punchline": "Because then it’d be a foot."
+    },
+    {
+      "id": 184,
+      "category": "random",
+      "setup": "Why don’t seagulls fly over the bay?",
+      "punchline": "Because then they’d be bagels."
+    },
+    {
+      "id": 185,
+      "category": "random",
+      "setup": "What do you call a fake noodle?",
+      "punchline": "An impasta."
+    },
+    {
+      "id": 186,
+      "category": "random",
+      "setup": "What did one wall say to the other?",
+      "punchline": "Meet you at the corner."
+    },
+    {
+      "id": 187,
+      "category": "random",
+      "setup": "What do you call a boomerang that doesn’t come back?",
+      "punchline": "A stick."
+    },
+    {
+      "id": 188,
+      "category": "random",
+      "setup": "Why did the man put his money in the blender?",
+      "punchline": "He wanted to make liquid assets."
+    },
+    {
+      "id": 189,
+      "category": "random",
+      "setup": "Why did the picture go to jail?",
+      "punchline": "It was framed."
+    },
+    {
+      "id": 190,
+      "category": "random",
+      "setup": "Why did the math book look sad?",
+      "punchline": "It had too many problems."
+    },
+    {
+      "id": 191,
+      "category": "random",
+      "setup": "Why did the banana go to the party?",
+      "punchline": "Because it was a-peeling."
+    },
+    {
+      "id": 192,
+      "category": "random",
+      "setup": "Why did the scarecrow keep winning awards?",
+      "punchline": "Because he was out-standing in his field."
+    },
+    {
+      "id": 193,
+      "category": "random",
+      "setup": "Why did the cookie go to the doctor?",
+      "punchline": "It was feeling crummy."
+    },
+    {
+      "id": 194,
+      "category": "random",
+      "setup": "Why was the broom late?",
+      "punchline": "It swept in."
+    },
+    {
+      "id": 195,
+      "category": "random",
+      "setup": "Why can’t you give Elsa a balloon?",
+      "punchline": "Because she’ll let it go."
+    },
+    {
+      "id": 196,
+      "category": "random",
+      "setup": "Why did the musician bring a ladder?",
+      "punchline": "To reach the high notes."
+    },
+    {
+      "id": 197,
+      "category": "random",
+      "setup": "Why don’t vampires go out in the sun?",
+      "punchline": "Because it’s a real pain in the neck."
+    },
+    {
+      "id": 198,
+      "category": "random",
+      "setup": "Why did the mushroom go to the party?",
+      "punchline": "Because he was a fungi."
+    },
+    {
+      "id": 199,
+      "category": "random",
+      "setup": "What did the janitor say when he jumped out of the closet?",
+      "punchline": "Supplies!"
+    },
+    {
+      "id": 200,
+      "category": "random",
+      "setup": "Why did the bicycle fall over?",
+      "punchline": "It was two-tired."
+    }
+  ]
+}
