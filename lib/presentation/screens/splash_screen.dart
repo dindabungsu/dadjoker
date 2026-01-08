@@ -43,12 +43,6 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
     // Navigate after animation
     Future.delayed(const Duration(seconds: 3), () {
       if (mounted) {
-        // final token = ref.read(accessTokenProvider);
-        // if (token != null) {
-        //   context.go('/home');
-        // } else {
-        //   context.go('/login');
-        // }
         context.go('/home'); // Change this based on your auth logic
       }
     });
@@ -127,7 +121,7 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                           ],
                         ),
                         child: const Text(
-                          'Dad Jokes',
+                          'DadJoker',
                           style: TextStyle(
                             color: Colors.white,
                             fontSize: 48,
@@ -148,29 +142,29 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
                       const SizedBox(height: 20),
 
                       // Tagline
-                      Container(
-                        padding: const EdgeInsets.symmetric(
-                          horizontal: 24,
-                          vertical: 12,
-                        ),
-                        decoration: BoxDecoration(
-                          color: const Color(0xFFFFE5B4),
-                          borderRadius: BorderRadius.circular(15),
-                          border: Border.all(
-                            color: const Color(0xFF8B4513),
-                            width: 2,
-                          ),
-                        ),
-                        child: const Text(
-                          'Wanna impress someone\'s dad?',
-                          style: TextStyle(
-                            color: Color(0xFF654321),
-                            fontSize: 18,
-                            fontWeight: FontWeight.w600,
-                            fontStyle: FontStyle.italic,
-                          ),
-                        ),
-                      ),
+                      // Container(
+                      //   padding: const EdgeInsets.symmetric(
+                      //     horizontal: 24,
+                      //     vertical: 12,
+                      //   ),
+                      //   decoration: BoxDecoration(
+                      //     color: const Color(0xFFFFE5B4),
+                      //     borderRadius: BorderRadius.circular(15),
+                      //     border: Border.all(
+                      //       color: const Color(0xFF8B4513),
+                      //       width: 2,
+                      //     ),
+                      //   ),
+                      //   child: const Text(
+                      //     'Wanna impress someone\'s dad?',
+                      //     style: TextStyle(
+                      //       color: Color(0xFF654321),
+                      //       fontSize: 18,
+                      //       fontWeight: FontWeight.w600,
+                      //       fontStyle: FontStyle.italic,
+                      //     ),
+                      //   ),
+                      // ),
 
                       const SizedBox(height: 60),
 

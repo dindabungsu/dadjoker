@@ -1,16 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
 
 import '../widgets/joke_popup.dart';
-import 'library_screen.dart';
 
-class DadJokesHomePage extends StatefulWidget {
-  const DadJokesHomePage({super.key});
+class HomeScreen extends ConsumerStatefulWidget {
+  const HomeScreen({super.key});
 
   @override
-  State<DadJokesHomePage> createState() => _DadJokesHomePageState();
+  ConsumerState<HomeScreen> createState() => _HomeScreenState();
 }
 
-class _DadJokesHomePageState extends State<DadJokesHomePage> {
+
+class _HomeScreenState extends ConsumerState<HomeScreen> {
   String? selectedCategory;
 
   final List<Map<String, dynamic>> categories = [
@@ -33,7 +35,7 @@ class _DadJokesHomePageState extends State<DadJokesHomePage> {
         backgroundColor: const Color(0xFF8B4513),
         elevation: 0,
         title: const Text(
-          'Dad Jokes',
+          'DadJoker',
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
@@ -44,12 +46,7 @@ class _DadJokesHomePageState extends State<DadJokesHomePage> {
           IconButton(
             icon: const Icon(Icons.library_books, color: Colors.white),
             onPressed: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (context) => const LibraryScreen(),
-                ),
-              );
+              context.push("/library");
             },
             tooltip: 'My Library',
           ),
@@ -94,7 +91,7 @@ class _DadJokesHomePageState extends State<DadJokesHomePage> {
                           const SizedBox(width: 15),
                           const Flexible(
                             child: Text(
-                              'Dad Jokes',
+                              'DadJoker',
                               style: TextStyle(
                                 fontSize: 42,
                                 fontWeight: FontWeight.bold,

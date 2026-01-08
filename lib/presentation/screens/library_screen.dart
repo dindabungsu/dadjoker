@@ -1,16 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../data/models/joke_model.dart';
 import '../../data/services/library_service.dart';
 
-class LibraryScreen extends StatefulWidget {
+class LibraryScreen extends ConsumerStatefulWidget {
   const LibraryScreen({super.key});
 
   @override
-  State<LibraryScreen> createState() => _LibraryScreenState();
+  ConsumerState<LibraryScreen> createState() => _LibraryScreenState();
 }
 
-class _LibraryScreenState extends State<LibraryScreen> {
+
+class _LibraryScreenState extends ConsumerState<LibraryScreen> {
   final LibraryService _libraryService = LibraryService();
   String? _selectedCategory;
   List<Joke> _displayedJokes = [];
@@ -45,6 +47,13 @@ class _LibraryScreenState extends State<LibraryScreen> {
   Future<void> _deleteJoke(int jokeId) async {
     await _libraryService.removeJoke(jokeId);
     _filterByCategory(_selectedCategory);
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('Removed from library', style: TextStyle(color: Colors.white)),
+        backgroundColor: Color(0xFF8B4513),
+        duration: Duration(seconds: 1),
+      ),
+    );
   }
 
   void _showJokeDetail(Joke joke) {
@@ -79,7 +88,7 @@ class _LibraryScreenState extends State<LibraryScreen> {
             Icon(Icons.library_books, color: Colors.white),
             SizedBox(width: 10),
             Text(
-              'MY LIBRARY',
+              'DAD JOKE LIBRARY',
               style: TextStyle(
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
