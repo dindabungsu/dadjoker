@@ -23,9 +23,7 @@ class JokeService {
       _allJokes = jokesJson.map((joke) => Joke.fromJson(joke)).toList();
       _isLoaded = true;
 
-      print('✅ Loaded ${_allJokes.length} jokes successfully');
     } catch (e) {
-      print('❌ Error loading jokes: $e');
       rethrow;
     }
   }
@@ -36,7 +34,6 @@ class JokeService {
         .where((joke) => joke.category == category)
         .toList();
 
-    print('📚 Found ${filteredJokes.length} jokes in "$category" category');
 
     if (filteredJokes.isEmpty) {
       throw Exception('No jokes found for category: $category');

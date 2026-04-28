@@ -53,7 +53,6 @@ class _JokePopupState extends State<JokePopup> {
         _isLoading = false;
       });
     } catch (e) {
-      print('Error: $e');
       WidgetsBinding.instance.addPostFrameCallback((_) {
         if (mounted) {
           Navigator.pop(context);
